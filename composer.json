@@ -1,0 +1,15 @@
+{
+    "name": "alex/trimmer",
+    "description": "t-rimmer app",
+    "require": {
+        "slim/slim": "^3.1",
+        "twitter/bootstrap": "^3.3",
+        "slim/twig-view": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Alex Farr",
+            "email": "me@alexfarr.co.uk"
+        }
+    ]
+}
